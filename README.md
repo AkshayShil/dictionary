@@ -1,2 +1,2 @@
 # dictionary
-A dictionary written in C using JSON
+A dictionary written in JAVA
